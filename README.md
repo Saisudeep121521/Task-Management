@@ -16,19 +16,26 @@ Make sure you have the following packages installed:
 
 ### Setup Instructions
 
-1. **Navigate to the frontend folder.**
+1. **Clone the Repository.**
+
+    ```bash
+    git clone https://github.com/Saisudeep121521/Task-Management.git
+    ```
+
+
+2. **Navigate to the frontend folder.**
 
     ```bash
     cd task_management_frontend
     ```
 
-2. **Install Dependencies.**
+3. **Install Dependencies.**
 
     ```bash
     npm install
     ```
 
-3. **Run the Frontend Server.**
+4. **Run the Frontend Server.**
 
     ```bash
     npm start
