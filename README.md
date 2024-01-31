@@ -1,5 +1,5 @@
 # Task Management Application
-<img align="center" src="https://i.pinimg.com/originals/9d/c2/7a/9dc27a8a9bba4cdc7197749638710ca1.gif" width="100%" style="display:inline;">
+<img align="center" src="https://i.pinimg.com/originals/9d/c2/7a/9dc27a8a9bba4cdc7197749638710ca1.gif" width="100%" style="position:absolute;">
 
 ## Overview
 
