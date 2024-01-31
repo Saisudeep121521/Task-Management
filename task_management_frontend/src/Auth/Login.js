@@ -130,25 +130,6 @@ const LoginForm = ({ onAddLogin }) => {
           </div>
         </div>
       </form>
-      {/* <button onClick={handleButtonClick}>Fetch Data</button>
-      <table>
-        <thead>
-          <tr>
-            <th>ID</th>
-            <th>Username</th>
-            <th>Password</th>
-          </tr>
-        </thead>
-        <tbody>
-          {data.map((user) => (
-            <tr key={user.id}>
-              <td>{user.id}</td>
-              <td>{user.username}</td>
-              <td>{user.password}</td>
-            </tr>
-          ))}
-        </tbody>
-      </table> */}
     </div>
   );
 };
