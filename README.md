@@ -19,7 +19,7 @@ Make sure you have the following packages installed:
 1. **Navigate to the frontend folder.**
 
     ```bash
-    cd frontend
+    cd task_management_frontend
     ```
 
 2. **Install Dependencies.**
@@ -49,7 +49,7 @@ Ensure the following Python packages are installed:
 1. **Navigate to the backend folder.**
 
     ```bash
-    cd backend
+    cd task_management_backend
     ```
 
 2. **Install Node.js Packages.**
